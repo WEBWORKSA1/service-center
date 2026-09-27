@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /src/
+Sitemap: https://service.center/sitemap.xml
